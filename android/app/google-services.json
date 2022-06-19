@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "318811061545",
+    "project_id": "resepkub19",
+    "storage_bucket": "resepkub19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318811061545:android:a8b105edc101948c030b38",
+        "android_client_info": {
+          "package_name": "com.example.resepku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318811061545-9j10leonqb93md4j0hm4nhf1kbi49mi1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLJK-9hsStXu5wZ9rflzL7Cm8DD-rQazo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318811061545-9j10leonqb93md4j0hm4nhf1kbi49mi1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
